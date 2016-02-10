@@ -10,7 +10,7 @@ jboss-cluster-ha-singleton
 Lat9-mobileApp
 apibypass
 cobamt
-HitungTps
+!HitungTps
 jboss-cluster-ha-singleton-service
 lat4-singleton
 lat5-ws
