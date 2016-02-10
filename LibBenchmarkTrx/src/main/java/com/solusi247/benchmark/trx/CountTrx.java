@@ -16,16 +16,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 import org.jboss.logging.Logger; // < --- fire error NoClassDefFoundError: org/jboss/logging/Logger
 
-//import com.solusi247.poin.data.PoinApiAccess;
-// ClassNotFoundException: org.jboss.logging.Logger from [Module "com.solusi247.djava:main" from local module loader
-/**
- * The actual event.
- * The time property (ms) is the send time from the client sender, and can be used for end to end latency providing client(s)
- * and server OS clocks are in sync.
- * The inTime property is the unmarshal (local) time (ns).
- *
- * @author Alexandre Vasseur http://avasseur.blogspot.com
- */
 public enum CountTrx {
 	INSTANCE;
 	
