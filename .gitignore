@@ -10,14 +10,14 @@ jboss-cluster-ha-singleton
 Lat9-mobileApp
 apibypass
 cobamt
-!HitungTps
+HitungTps
 jboss-cluster-ha-singleton-service
 lat4-singleton
 lat5-ws
 lat6-mdb
 lat8-cluster-ha-singleton-service
 latihan1
-Latihan2
+!Latihan2
 Latihan3
 lib247_rcs_shared
 lib247_rcs_socmed
