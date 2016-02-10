@@ -21,7 +21,7 @@ lib247_rcs_shared
 lib247_rcs_socmed
 lib247_tspoin_shared
 Lib247RcsLibUtil
-LibBanchmarkTrx
+!LibBanchmarkTrx
 PoinWFOsbCorprodCallbackMDB
 rcsipcache
 RcsSmsSendKrome
