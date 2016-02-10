@@ -108,7 +108,7 @@
 	      </dependency>
 	      <dependency>
 			<groupId>com.solusi247.benchmark.trx</groupId>
-			<artifactId>LibBanchmarkTrx</artifactId>
+			<artifactId>LibBenchmarkTrx</artifactId>
 			<version>0.0.1</version>
 		</dependency>
     </dependencies>
