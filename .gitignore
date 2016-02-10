@@ -1,0 +1,23 @@
+# temp files
+.metadata
+RemoteSystemsTempFiles
+RemoveMsgMDB
+lib*
+Lib*
+lat*
+Lat*
+Poin*
+poin*
+Rcs*
+rcs*
+api*
+tspoin*
+umb*
+UXP/
+*/.settings
+*/target
+*/.classpath
+*/.project
+web.xml
+
+!statusKeyword
