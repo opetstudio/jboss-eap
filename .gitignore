@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # temp files
 .metadata
 RemoteSystemsTempFiles
@@ -22,17 +21,4 @@ UXP/
 web.xml
 
 !statusKeyword
-=======
-*.class
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
->>>>>>> 95e4649c8163c9e160a38d877f67c07615a63cb3
