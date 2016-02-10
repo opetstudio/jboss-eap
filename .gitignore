@@ -1,8 +1,8 @@
 # temp files
 .metadata
 */target/**
-!/target/*.war
-!/target/*.jar
+!*/target/*.war
+!*/target/*.jar
 */.settings/**
 */.classpath
 */.project
