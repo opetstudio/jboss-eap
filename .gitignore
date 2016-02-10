@@ -1,6 +1,9 @@
 # temp files
 .metadata
 */target/**
+*/.settings/**
+*/.classpath
+*/.project
 jboss-cluster-ha-singleton
 Lat9-mobileApp
 apibypass
