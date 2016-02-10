@@ -20,5 +20,5 @@ UXP/
 */.project
 web.xml
 
-!statusKeyword
+!statusKeyword/src/
 
