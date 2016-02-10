@@ -1,11 +1,6 @@
 # temp files
 .metadata
 */
-*/.settings
-*/target
-*/.classpath
-*/.project
-web.xml
 
 !statusKeyword/
 
