@@ -23,7 +23,7 @@ lib247_rcs_shared
 lib247_rcs_socmed
 lib247_tspoin_shared
 Lib247RcsLibUtil
-!LibBenchmarkTrx
+LibBenchmarkTrx
 PoinWFOsbCorprodCallbackMDB
 rcsipcache
 RcsSmsSendKrome
@@ -31,7 +31,7 @@ RcsSmsSendKrome3
 RcsWFKromeMDBean
 RcsWFLoggerMDBean
 RemoveMsgMDB
-!statusKeyword
+statusKeyword
 ticket-monster
 tselpoin_last
 tspoinbenchmark
